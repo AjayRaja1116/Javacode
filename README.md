@@ -37,5 +37,5 @@ class Diagonal
             System.out.print("No");
         }
     }
-}
+
 
